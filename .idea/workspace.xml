@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19d0bc36-7206-4051-ba45-82b2966b79a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythagorean_triples.py" afterDir="false" />
-    </list>
+    <list default="true" id="19d0bc36-7206-4051-ba45-82b2966b79a8" name="Changes" comment="find pythagorean triplet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +53,19 @@
       <option name="presentableId" value="Default" />
       <updated>1742380004945</updated>
     </task>
+    <task id="LOCAL-00001" summary="find pythagorean triplet">
+      <option name="closed" value="true" />
+      <created>1742381362331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742381362331</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="find pythagorean triplet" />
+    <option name="LAST_COMMIT_MESSAGE" value="find pythagorean triplet" />
   </component>
 </project>
