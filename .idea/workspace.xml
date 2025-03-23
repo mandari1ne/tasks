@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19d0bc36-7206-4051-ba45-82b2966b79a8" name="Changes" comment="optimise cost of rocks">
-      <change afterPath="$PROJECT_DIR$/check_strs.py" afterDir="false" />
+    <list default="true" id="19d0bc36-7206-4051-ba45-82b2966b79a8" name="Changes" comment="hamming distance">
+      <change afterPath="$PROJECT_DIR$/tic_tac_toe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Python.ip.executor": "Run",
     "Python.numbers.executor": "Run",
     "Python.pythagorean_triples.executor": "Run",
+    "Python.tic_tac_toe.executor": "Run",
     "Python.turtles.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -105,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742742314308</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hamming distance">
+      <option name="closed" value="true" />
+      <created>1742743141962</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742743141962</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,6 +122,7 @@
     <MESSAGE value="sequence turtles" />
     <MESSAGE value="cost of rocks" />
     <MESSAGE value="optimise cost of rocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="optimise cost of rocks" />
+    <MESSAGE value="hamming distance" />
+    <option name="LAST_COMMIT_MESSAGE" value="hamming distance" />
   </component>
 </project>
